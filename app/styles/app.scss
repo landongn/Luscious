@@ -1,0 +1,11 @@
+@import "compass";
+@import "compass/css3";
+
+body, html {
+	margin-top:20px;
+}
+
+
+@import "app/views/application",
+		"app/views/index",
+    "app/views/scene";
